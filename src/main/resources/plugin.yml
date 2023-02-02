@@ -1,0 +1,6 @@
+name: TechnologyTrees
+version: '${project.version}'
+main: io.just_a_09.technologytrees.TechnologyTrees
+api-version: 1.19
+authors: [ just_a_09 ]
+description: Added custom technology trees by your own config.

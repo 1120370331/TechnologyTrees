@@ -1,0 +1,15 @@
+Fast_Furnace_I:
+  require_points:
+    Major: 1
+  predecessors: 0 #How many points have been used that this node will be unlockable.
+  tier: 1 #tier control pages that it appears in the technology trees.
+  rewards:
+    unlock_recipes:
+      - "Fast_Furnace_I"
+    points:
+      Sub: 1
+    items:
+      COAL: 4
+    exp: 10
+
+

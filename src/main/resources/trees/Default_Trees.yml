@@ -1,0 +1,6 @@
+Miner:
+  name: "&bMiner"
+  lore:
+    - "&a&oMajor"
+    - "&eLearn to get more resources form ores."
+  upgrade_route: Major

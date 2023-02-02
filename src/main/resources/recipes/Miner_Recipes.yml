@@ -1,0 +1,14 @@
+Fast_Furnace_I:
+  costs:
+    Vault: 100
+    ItemsStack:
+      COBBLESTONE: 32
+      STONE: 4
+Fast_Furnace_II:
+  costs:
+    Vault: 500
+    ItemsStack:
+      IRON: 4
+      COBBLESTONE: 32
+    TreeItems:
+      Fast_Furnace_I: 1
